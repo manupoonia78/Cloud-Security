@@ -1,0 +1,9 @@
+Username:	demo1@elysiumtechnologies.com
+
+Password:	X4R2B2
+
+SenderID:	TEST
+
+URL:
+
+http://59.162.167.52/api/MessageCompose?admin=elysiumtechnologies@gmail.com&user=demo1@elysiumtechnologies.com:X4R2B2&senderID=TEST%20SMS&receipientno=9566434502&msgtxt=hai&state=4			
